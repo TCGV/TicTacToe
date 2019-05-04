@@ -2,7 +2,6 @@ namespace Tcgv.AI.TicTacToe
 {
     public class Game
     {
-
         public Game(Player p1, Player p2)
         {
             this.Player1 = p1;
